@@ -1,0 +1,10 @@
+D:\Hollow Knight\h\h\bin\Debug\h.exe.config
+D:\Hollow Knight\h\h\bin\Debug\h.exe
+D:\Hollow Knight\h\h\bin\Debug\h.pdb
+D:\Hollow Knight\h\h\obj\Debug\h.csproj.AssemblyReference.cache
+D:\Hollow Knight\h\h\obj\Debug\h.Form1.resources
+D:\Hollow Knight\h\h\obj\Debug\h.Properties.Resources.resources
+D:\Hollow Knight\h\h\obj\Debug\h.csproj.GenerateResource.cache
+D:\Hollow Knight\h\h\obj\Debug\h.csproj.CoreCompileInputs.cache
+D:\Hollow Knight\h\h\obj\Debug\h.exe
+D:\Hollow Knight\h\h\obj\Debug\h.pdb

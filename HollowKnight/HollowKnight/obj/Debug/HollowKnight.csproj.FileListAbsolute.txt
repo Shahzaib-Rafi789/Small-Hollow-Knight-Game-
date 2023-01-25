@@ -1,0 +1,13 @@
+D:\Hollow Knight\HollowKnight\HollowKnight\bin\Debug\HollowKnight.exe.config
+D:\Hollow Knight\HollowKnight\HollowKnight\bin\Debug\HollowKnight.exe
+D:\Hollow Knight\HollowKnight\HollowKnight\bin\Debug\HollowKnight.pdb
+D:\Hollow Knight\HollowKnight\HollowKnight\obj\Debug\HollowKnight.csproj.AssemblyReference.cache
+D:\Hollow Knight\HollowKnight\HollowKnight\obj\Debug\HollowKnight.Properties.Resources.resources
+D:\Hollow Knight\HollowKnight\HollowKnight\obj\Debug\HollowKnight.csproj.GenerateResource.cache
+D:\Hollow Knight\HollowKnight\HollowKnight\obj\Debug\HollowKnight.csproj.CoreCompileInputs.cache
+D:\Hollow Knight\HollowKnight\HollowKnight\obj\Debug\HollowKnight.exe
+D:\Hollow Knight\HollowKnight\HollowKnight\obj\Debug\HollowKnight.pdb
+D:\Hollow Knight\HollowKnight\HollowKnight\bin\Debug\EZInput.dll
+D:\Hollow Knight\HollowKnight\HollowKnight\bin\Debug\EZInput.xml
+D:\Hollow Knight\HollowKnight\HollowKnight\obj\Debug\HollowKnight.csproj.CopyComplete
+D:\Hollow Knight\HollowKnight\HollowKnight\obj\Debug\HollowKnight.Form1.resources
